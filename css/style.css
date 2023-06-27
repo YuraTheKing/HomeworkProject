@@ -1,0 +1,29 @@
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.hero-section {
+    background: rgb(239, 39, 121);
+    background: linear-gradient(31deg, rgba(239, 39, 121, 1) 0%, rgba(120, 52, 190, 1) 70%);
+    color: white;
+    padding-top: 88px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.nav-con-mod {
+    transform: translate(-50%, 0%);
+    left: 50%;
+}
+
+.navbar {
+    font-family: 'Rampart One', cursive;
+    font-size: 24px;
+}
+
+.hero-section h1 {
+    color: #ff34bc !important;
+}
+
+.nav-hover a:hover {
+    color: #00b7ff !important;
+}
