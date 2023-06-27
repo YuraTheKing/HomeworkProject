@@ -27,3 +27,7 @@
 .nav-hover a:hover {
     color: #00b7ff !important;
 }
+
+.mb-6 {
+    margin-bottom: 100px;
+}
