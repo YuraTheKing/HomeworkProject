@@ -39,3 +39,10 @@
 .con-fonts {
     font-family: 'Red Hat Display', sans-serif;
 }
+
+.subscribe {
+    background: rgb(239, 39, 121);
+    background: linear-gradient(31deg, rgba(239, 39, 121, 1) 0%, rgba(120, 52, 190, 1) 70%);
+    padding-block: 80px;
+    color: white;
+}
