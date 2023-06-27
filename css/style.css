@@ -24,10 +24,18 @@
     color: #ff34bc !important;
 }
 
+.text-pink {
+    color: #ff34bc !important;
+}
+
 .nav-hover a:hover {
     color: #00b7ff !important;
 }
 
 .mb-6 {
     margin-bottom: 100px;
+}
+
+.con-fonts {
+    font-family: 'Red Hat Display', sans-serif;
 }
